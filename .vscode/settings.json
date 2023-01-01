@@ -2,6 +2,7 @@
     "files.associations": {
         "xstring": "cpp",
         "queue": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "utility": "cpp"
     }
 }
