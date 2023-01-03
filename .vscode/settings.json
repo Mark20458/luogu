@@ -3,6 +3,10 @@
         "xstring": "cpp",
         "queue": "cpp",
         "cmath": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "xtree": "cpp",
+        "set": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
 }
